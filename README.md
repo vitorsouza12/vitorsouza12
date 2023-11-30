@@ -1,6 +1,6 @@
 ### Olá! Me chamo Vitor. 😁
 
-![vitorsouza12 GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsouza12&show_icons=true&theme=dracula)
+![vitorsouza12 GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsouza12&show_icons=true&theme=dracula&locale=pt-br)
 
 ### Tecnologias que uso no meu dia a dia
 
@@ -15,7 +15,7 @@
 
 <br>
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza12&hide_progress=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza12&hide_progress=true&locale=pt-br)
 
 Sou apaixonado por desenvolvimento Web como um todo!
 
